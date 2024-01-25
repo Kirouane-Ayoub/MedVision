@@ -1,4 +1,4 @@
-# Cutting-edge Vision Medical AI Assistant
+# MedVision
 
 ## Overview
 Welcome to the Cutting-edge Vision Medical AI Assistant project! Our system utilizes the 'Gemini Vision' model from Google, bringing advanced capabilities to the analysis of medical images. While we acknowledge the complexities of healthcare, our AI assistant aims to provide enhanced support to healthcare professionals with its innovative features.
@@ -49,3 +49,8 @@ Before launching the application, ensure to set your **Google Gemini Vision API 
 ```
 streamlit run app.py
 ```
+
+![Screenshot from 2024-01-25 14-15-47](https://github.com/Kirouane-Ayoub/MedVision/assets/99510125/05f73a7d-df28-4549-ba76-ecec47018ea7)
+
+
+
