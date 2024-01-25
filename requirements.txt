@@ -1,0 +1,6 @@
+elevenlabs
+google-generativeai
+streamlit
+pillow
+markdown2
+regex
